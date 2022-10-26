@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tryunfo/static/css/main.b7d1db37.css",
+    "main.js": "/tryunfo/static/js/main.4a444950.js",
+    "static/media/formula1-regular-webfont.woff": "/tryunfo/static/media/formula1-regular-webfont.66d224d01b3eb352af80.woff",
+    "static/media/formula1-regular-webfont.woff2": "/tryunfo/static/media/formula1-regular-webfont.c8ea978c7efc192747f1.woff2",
+    "index.html": "/tryunfo/index.html",
+    "main.b7d1db37.css.map": "/tryunfo/static/css/main.b7d1db37.css.map",
+    "main.4a444950.js.map": "/tryunfo/static/js/main.4a444950.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7d1db37.css",
+    "static/js/main.4a444950.js"
+  ]
+}
